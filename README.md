@@ -7,7 +7,7 @@
 
 
 > [!Note]  
-> :white_check_mark:	If you are looking for a freelance Java developer :man_mechanic:, I am your guy 👍:
+<!-- >  :white_check_mark:	If you are looking for a freelance Java developer :man_mechanic:, I am your guy 👍: -->
 > - I work remotely :earth_americas: or onsite in the Berlin Area :de:.
 > - I specialise in Spring Boot and Java EE/Jakarta EE.
 > - I had roles in many aspects of the development process, like backend developer, frontend developer, team lead, project lead, Scrum master, operations, 1st and 2nd level support, requirements, etc.
